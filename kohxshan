@@ -1,6 +1,4 @@
-   ```
-   .devcontainer/devcontainer.json
-   ```
+.devcontainer/devcontainer.json
 
 {
     // Name this configuration
